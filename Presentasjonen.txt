@@ -2,18 +2,18 @@ Logo + brand name design:
 
 
 
-Hadde mange idéar til design, men gjekk for QuickPark.
+Vi hadde mange idéar til design og namn, men gjekk til slutt for QuickPark og denne logoen.
 
-Had many design ideas, but settled for QuickPark.
+We had many design ideas and names, but settled for QuickPark and this logo.
 
 
 
 Login page:
 
 
-Måtte lage wireframes for appen vår. Dette er den første sida vi ser når vi går inn på appen.
+Eg laga wireframesa for appen vår. Dette er dei første sidene vi ser etter at vi har gått inn på appen.
 
-Had to make wireframes for our app. The pages we first see when we launch the app.
+I made the wireframes for our app. These are the first pages we see after we have launched the app.
 
 
 
@@ -21,9 +21,9 @@ Home page
 
 
 
-Dette er sida vi ser etter vi har logga inn.
+Dette er startsida vi ser etter at vi har logga inn.
 
-This is the page we see after the login process.
+This is the home page we see after logging in.
 
 
 
@@ -31,7 +31,7 @@ Choosing parking place:
 
 
 
-Når vi trykkar på maps ikonet på heimesida, så opnar vi opp Google-Maps-sida for å velje parkeringsplassen vår.
+Når vi trykkar på maps-ikonet på startsida, så opnar vi opp Google-Maps-sida for å velje parkeringsplassen vår.
 Vi kan filtrere frå-til-datoar og trykke på logoane på kartet for å sjå detaljar om desse plassane og velje parkeringsplassen vår.
 
 When we click on maps on the home page, we get to the Google Maps page for choosing our parking places.
@@ -43,6 +43,6 @@ Transaction:
 
 
 
-Etter å ha velt parkeringsplass, så må vi legge inn informasjon om bilen vår, så sjekke gjennom informasjonen vår og til slutt betale for parkeringsplassen.
+Etter å ha velt parkeringsplassen vår, så må vi legge til informasjon om bilen vår, sjekke gjennom informasjonen vår og til slutt betale for parkeringsplassen vår.
 
-After having chosen a parking place, we have to put in information about our car, then check through our information and finally checkout.
+After having chosen our parking place, we have to put in information about our car, check through our information and finally checkout.
